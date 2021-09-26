@@ -1,0 +1,16 @@
+C:\Users\raulq\source\repos\AnalizadorLexico\AnalizadorLexico\bin\Debug\AnalizadorLexico.exe.config
+C:\Users\raulq\source\repos\AnalizadorLexico\AnalizadorLexico\bin\Debug\AnalizadorLexico.exe
+C:\Users\raulq\source\repos\AnalizadorLexico\AnalizadorLexico\bin\Debug\AnalizadorLexico.pdb
+C:\Users\raulq\source\repos\AnalizadorLexico\AnalizadorLexico\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\raulq\source\repos\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csproj.AssemblyReference.cache
+C:\Users\raulq\source\repos\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.Form1.resources
+C:\Users\raulq\source\repos\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.Properties.Resources.resources
+C:\Users\raulq\source\repos\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csproj.GenerateResource.cache
+C:\Users\raulq\source\repos\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csproj.CoreCompileInputs.cache
+C:\Users\raulq\source\repos\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csproj.CopyComplete
+C:\Users\raulq\source\repos\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.exe
+C:\Users\raulq\source\repos\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.pdb
+C:\Users\raulq\source\repos\AnalizadorLexico\AnalizadorLexico\bin\Debug\AnalizadorLexico.exe.manifest
+C:\Users\raulq\source\repos\AnalizadorLexico\AnalizadorLexico\bin\Debug\AnalizadorLexico.application
+C:\Users\raulq\source\repos\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.exe.manifest
+C:\Users\raulq\source\repos\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.application
